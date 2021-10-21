@@ -1,2 +1,3 @@
-#My sample project
-![image](readmeimg/img.png)
+# My sample project
+
+![image](readmmeimg/img.png)
