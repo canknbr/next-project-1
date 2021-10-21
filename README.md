@@ -1,3 +1,3 @@
 # My sample project
 
-![image](readmmeimg/img.png)
+![image](img.png)
